@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Putu Wiranto</h1>
+![Header](./your-header-image-name.png)
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **React, React Native, Tailwind**
